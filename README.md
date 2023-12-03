@@ -46,9 +46,9 @@ print(x)
 ```
 
 ## Output:
-###(i) To find the L and U matrix
+### (i) To find the L and U matrix
 ![Screenshot 2023-12-03 140854](https://github.com/YuvarajVB/LU-Decomposition/assets/151488375/af2c7bf6-7029-4652-905b-2bf72aac3521)
-
+### (ii) To find the LU Decomposition of a matrix
 ![Screenshot 2023-12-03 140927](https://github.com/YuvarajVB/LU-Decomposition/assets/151488375/fd632626-5ebe-4e25-91c5-1ec4aa5254e3)
 
 
